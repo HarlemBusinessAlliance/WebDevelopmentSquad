@@ -12,7 +12,7 @@ A block-level element always starts on a new line and takes up majority of its s
 
 `<div> World </div> `
 
-##List of Block Elements 
+## List of Block Elements 
 
 `<section>`
 
@@ -30,7 +30,7 @@ A block-level element always starts on a new line and takes up majority of its s
 
 An In-Line element does not start a new line and only takes up as much space as necceessary. For an example `<span>` tag. Span tags can be used  as a container of some text. You can insert logos, icons, pop up messages etc..
 
-##List of In-Line Elements 
+## List of In-Line Elements 
 
 `<label>`
 

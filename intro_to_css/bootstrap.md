@@ -6,8 +6,7 @@
 ## Adding Bootstrap to HTML 
 Bootstrap uses HTML elements and CSS properties that require the HTML5 doctype.
 
-Always include the HTML5 doctype at the beginning of the page, along with the lang attribute and the correct character set
-
+Always include the HTML5 doctype at the beginning of the page, along with the lang attribute and the correct character is set. 
 `
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 `

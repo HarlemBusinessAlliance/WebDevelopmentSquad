@@ -2,7 +2,7 @@
 
 After learning more about HTML, it is time for us to put the icing on the cake by learning CSS! 
 
-**CSS** stands for **(C)**ascading **(S)**tyle **(S)**heet. It is what makes web pages look good and presentable. It is an essential part of modern web development and a **must-have** skill for any web designer and developer.  
+**CSS** stands for **(C)** ascading **(S)** tyle **(S)** heet. It is what makes web pages look good and presentable. It is an essential part of modern web development and a **must-have** skill for any web designer and developer.  
 
 **There are 3 ways you can add CSS to your HTML elements:** 
 
@@ -18,7 +18,7 @@ After learning more about HTML, it is time for us to put the icing on the cake b
 Since CSS is a design language that is used to style HTML elements. In order to style your elements, you have to first select them. We touch on this a little bit already but let’s dive a bit deeper. 
 
 
-## ElEMENTS 
+## Elements 
 To select an HTML element you simply select them by their name. By selecting their name, you are then giving them different styling attributes that specifies the content even more. 
 
 `
@@ -34,15 +34,15 @@ div {
    }
 `
 
-## CLASS 
+## Class 
 Another way to select an HTML element is by using the **class** attribute. It allows you to assign  **different classes to multiple elements.** 
 `
-//index.html
 <div class='container'>
     <h1> About Me </h1>
 </div>
 `
-`//index.css
+
+`
 .container {
     margin: 15px;
 }
@@ -52,13 +52,13 @@ Another way to select an HTML element is by using the **class** attribute. It al
 Similar to the class attribute, you can also use the **id** attribute to select HTML elements as well. However, using the **id** attribute **you are only allowed to assign it to one HTML element**
 
 `
-//index.html 
 <div>
     <p id='bio'> This is a paragraph </p>
 </div>
 `
+
+
 `
-//index.css
 #bio{
     color: blue;
     font-size: 12px;
