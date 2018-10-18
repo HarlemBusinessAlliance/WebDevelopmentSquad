@@ -13,8 +13,7 @@ A semantic tag/element are tags that have a meaning. Many websites contain diffe
 [Best CSS Resources To Use](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/intro_to_css)
 
 
-
-Think about your About Me Projects and it's broken down for us learn more about you. 
+Think about your About Me Projects and how it's broken down for us learn more about you. 
 
 * Name +  Home/Town City ---> Header 
 * Photo of yourself or Avatar 

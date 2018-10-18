@@ -49,8 +49,7 @@ Another way to select an HTML element is by using the **class** attribute. It al
 ## ID 
 Similar to the class attribute, you can also use the **id** attribute to select HTML elements as well. However, using the **id** attribute **you are only allowed to assign it to one HTML element**
 
-`
-<p id="bio">This is a paragraph</p>
+`<p id="bio">This is a paragraph</p>
 `
 
 
