@@ -35,9 +35,7 @@ div {
 
 ## Class 
 Another way to select an HTML element is by using the **class** attribute. It allows you to assign  **different classes to multiple elements.** 
-`
-<div class="container">
-    <h1> About Me </h1>
+`<div class="container">
 </div>
 `
 
