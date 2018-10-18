@@ -12,6 +12,6 @@ To use CSS and add the same animation-type to each item on your list. Use this s
 
 Feel free to google other resources that may help you to accomplsih this task. 
 
-[Best CSS Resources To Use](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/intro_to_css)
+[Best CSS Resources To Use](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/intro_to_css)
 
 

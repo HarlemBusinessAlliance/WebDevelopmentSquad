@@ -10,7 +10,7 @@ A semantic tag/element are tags that have a meaning. Many websites contain diffe
 
 
 ## List of Semantic Tags
-[Best CSS Resources To Use](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/intro_to_css)
+[Best CSS Resources To Use](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/intro_to_css)
 
 
 

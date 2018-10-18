@@ -2,13 +2,14 @@
 
 After learning more about HTML, it is time for us to put the icing on the cake by learning CSS! 
 
-**CSS** stands for **(C)**ascading **(S)**tyle **(S)**heet. It is what makes web pages look good and presentable. It is an essential part of modern web development and a  **must-have** skill for any web designer and developer.  
+**CSS** stands for **(C)**ascading **(S)**tyle **(S)**heet. It is what makes web pages look good and presentable. It is an essential part of modern web development and a **must-have** skill for any web designer and developer.  
 
 **There are 3 ways you can add CSS to your HTML elements:** 
 
-* In-line: is using the style attribute in your HTML elements. For example: `<h1 style="font-family:'Arial'"`
+* In-line: is using the style attribute in your HTML elements. For example: 
+`<h1 style="font-family:'Arial'> `
 
-* Internal: is using the `<style> ` tag/element inside of the `<head>` element of your HTML page.
+* Internal: is using the `<style>` tag/element inside of the `<head>` element of your HTML page.
 
 * External: is used as a seperate CSS file. You will create a new file within your folder. For example: index.css (This is where all of my css code will go). In order for you to link this to your HTML page, you will always have to use the `<link rel="stylesheet" href="styles.css">`inside of your `head` tag.  This style sheet can be imported into other HTML files which is great for reusability. 
 
@@ -40,7 +41,8 @@ Another way to select an HTML element is by using the **class** attribute. It al
 <div class='container'>
     <h1> About Me </h1>
 </div>
-//index.css
+`
+`//index.css
 .container {
     margin: 15px;
 }
@@ -54,6 +56,8 @@ Similar to the class attribute, you can also use the **id** attribute to select 
 <div>
     <p id='bio'> This is a paragraph </p>
 </div>
+`
+`
 //index.css
 #bio{
     color: blue;
@@ -65,5 +69,5 @@ CSS gives you that power to design your site however you like. This is where you
 
 ## CSS Resources 
 
-[Best CSS Resources To Use](https://github.com/twilsonpierce/DisruptHarlemCode/tree/master/intro_to_css)
+[Best CSS Resources To Use](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/intro_to_css)
 
