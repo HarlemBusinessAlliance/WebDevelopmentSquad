@@ -36,13 +36,12 @@ div {
 ## Class 
 Another way to select an HTML element is by using the **class** attribute. It allows you to assign  **different classes to multiple elements.** 
 `
-<div class='container'>
+<div class="container">
     <h1> About Me </h1>
 </div>
 `
 
-`
-.container {
+`.container {
     margin: 15px;
     }
 `
@@ -50,9 +49,9 @@ Another way to select an HTML element is by using the **class** attribute. It al
 ## ID 
 Similar to the class attribute, you can also use the **id** attribute to select HTML elements as well. However, using the **id** attribute **you are only allowed to assign it to one HTML element**
 
-`<div>
-    <p id='bio'>This is a paragraph</p>
-</div>`
+`
+<p id="bio">This is a paragraph</p>
+`
 
 
 `#bio{
