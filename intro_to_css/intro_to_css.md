@@ -13,7 +13,6 @@ After learning more about HTML, it is time for us to put the icing on the cake b
 
 * External: is used as a seperate CSS file. You will create a new file within your folder. For example: index.css (This is where all of my css code will go). In order for you to link this to your HTML page, you will always have to use the `<link rel="stylesheet" href="styles.css">`inside of your `head` tag.  This style sheet can be imported into other HTML files which is great for reusability. 
 
-
 ## CSS Selectors  
 Since CSS is a design language that is used to style HTML elements. In order to style your elements, you have to first select them. We touch on this a little bit already but let’s dive a bit deeper. 
 
@@ -36,26 +35,22 @@ div {
 
 ## Class 
 Another way to select an HTML element is by using the **class** attribute. It allows you to assign  **different classes to multiple elements.** 
-`
-<div class='container'>
+`<div class='container'>
     <h1> About Me </h1>
 </div>
 `
 
-`
-.container {
+`.container {
     margin: 15px;
-}
+    }
 `
 
 ## ID 
 Similar to the class attribute, you can also use the **id** attribute to select HTML elements as well. However, using the **id** attribute **you are only allowed to assign it to one HTML element**
 
-`
-<div>
-    <p id='bio'> This is a paragraph </p>
-</div>
-`
+`<div>
+    <p id='bio'>This is a paragraph</p>
+</div>`
 
 
 `
