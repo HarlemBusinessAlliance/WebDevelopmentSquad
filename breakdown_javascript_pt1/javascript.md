@@ -19,7 +19,9 @@ A lot of people tend to confuse the two but we don't want you to make that same 
 
 ## Why JavaScript is so unique 
 
-JavaScript is greatly known for building fast and high-performing web, desktop, mobile apps and browser extensions. *"Any application that can be written in JavaScript, will eventually be written in JavaScript" - Jeff Atwood , Founder of StackOverflow*
+JavaScript is greatly known for building fast and high-performing web, desktop, mobile apps and browser extensions. 
+
+*"Any application that can be written in JavaScript, will eventually be written in JavaScript" - Jeff Atwood , Founder of StackOverflow*
 
 * Easiest program language to learn for beginners. 
 
