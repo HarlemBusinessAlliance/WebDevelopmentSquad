@@ -19,12 +19,17 @@ Throughout the program, we will be focusing only on learning more about our budd
 
 JavaScript is greatly known for building fast and high-performing web, desktop, mobile apps and browser extensions. 
 
+
 * Highest Used language by millions of developers/engineers.
 
 * Create Full-Stack Web Apps 
 
+* 
 
-**"Any application that can be written in JavaScript, will eventually be written in JavaScript" - Jeff Atwood , Founder of StackOverflow**
+
+
+
+*"Any application that can be written in JavaScript, will eventually be written in JavaScript" - Jeff Atwood , Founder of StackOverflow*
 
 ## Apps, Websites, Games, etc..that was built using Javascript. 
 
