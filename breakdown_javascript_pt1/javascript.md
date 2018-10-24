@@ -11,9 +11,12 @@ To understand the history of JavaScript and why it is one of the best web progra
 
 ## It's JavaScript, Not Java ?? 
 
-Yes, JavaScript and Java are two different programming languages that have two different designs and capabilities. Despite the similar names,  **JavaScript** is widely known to be a "scripting language" for the cilent-side of the browser, it is what adds in the behavior of a website and **Java** is mostly known to be used as a compiling language for virtual machines. A lot of people tend to confuse the two but we don't want you to make that same mistake. 
+Yes, JavaScript and Java are two different programming languages that have two different designs and capabilities. 
 
-Throughout the program, we will be focusing only on learning more about our buddy Javascript. 
+Despite the similar names,  **JavaScript** is widely known to be a "scripting language" for the cilent-side of the browser, it is what adds in the behavior of a website and **Java** is mostly known to be used as a compiling language for virtual machines. 
+
+A lot of people tend to confuse the two but we don't want you to make that same mistake. 
+
 
 ## Why JavaScript Is So Unique 
 
