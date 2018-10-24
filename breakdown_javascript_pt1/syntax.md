@@ -34,7 +34,7 @@ Different programming language will have a different style of writing their code
 `var message = 'Hello World';` 
 
 However, In Python semi-colons aren't needed after 
-`def message = 'Hello World` 
+`def message = 'Hello World' ` 
 
 
 ## Comments 
