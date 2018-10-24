@@ -27,7 +27,7 @@ JavaScript is greatly known for building fast and high-performing web, desktop, 
 
 * Popular By Demand
 
-* Interactive, Fun, and Can Build Mobile-Friendly Apps. 
+* Interactive, Fun, and Can Build Mobile-Friendly Apps Using It's Own Frameworks. 
 
 
 ## Apps..Websites..and Games that were built using Javascript. 
