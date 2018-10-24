@@ -1,11 +1,11 @@
 # Datatypes in JavaScript 
 
-It is important that you remember these 7 datatypes in JavaScript. We already know that variables can hold a certain value(s). 
+It is important that you remember these **7 datatypes** in JavaScript. We already know that variables can hold a certain value(s). 
 
-Those values will always be one of these datatypes and this will help the computer understand what type of result to return back to you. 
+Those values will always be **one of these datatypes** and this will help the computer understand what **type of result** to return back to you. 
 
 
-## List of Datatypes in JavaScript 
+## List of DataTypes in JavaScript 
 
 `Strings`
 
