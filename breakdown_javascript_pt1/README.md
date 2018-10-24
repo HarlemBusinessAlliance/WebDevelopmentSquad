@@ -6,7 +6,7 @@
 2. [Datatypes](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt1/datatypes.md)
 3. [Variables](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt1/variables.md)
 4. [Conditionals](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt1/conditionals.md)
-5. [JS Exercises](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt1/exercises.md)
+5. [Syntax](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt1/syntax.md)
 
 ## Resources 
 [CodeAcademy](https://www.codecademy.com/learn/introduction-to-javascript)
