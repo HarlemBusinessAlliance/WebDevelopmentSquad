@@ -24,8 +24,11 @@ To understand JavaScript's syntax, first you have to understand the difference b
 
 ## JavaScript Syntax 
 
+The JavaScript Syntax are the rules to how you should be writing out your code. One important note to make is that JavaScript follows the **camelCase** style when defining the name of some type of variable or function. 
 
+For example: 
 
+`var   shoppingList = ['apples', 'oranges', 'pears', 'grapes'];`                                                                                                                                                                                                                                      
 ## Semicolons 
 In JavaScript you want to make it a habit to practice putting a semi-colon after every new line of code that you create. 
 
