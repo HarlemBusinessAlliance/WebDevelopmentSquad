@@ -2,11 +2,11 @@
 
 ## Contents 
 
-1. [What is Javascript?](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/the_world_wide_web.md)
-2. [Datatypes](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/html_structure.md)
-3. [Variables](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/html_tags.md)
-4. [Conditionals ](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/in_line_vs_block.md)
-5. [JS Exercises](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/intro_to_html/images.md)
+1. [What is Javascript?](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/breakdown_javascript_pt1/javascript.md)
+2. [Datatypes](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/breakdown_javascript_pt1/datatypes.md)
+3. [Variables](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/breakdown_javascript_pt1/variables.md)
+4. [Conditionals](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/breakdown_javascript_pt1/conditionals.md)
+5. [JS Exercises](https://github.com/twilsonpierce/DisruptHarlemCode/blob/master/breakdown_javascript_pt1/exercises.md)
 
 ## Resources 
 [CodeAcademy](https://www.codecademy.com/learn/introduction-to-javascript)
