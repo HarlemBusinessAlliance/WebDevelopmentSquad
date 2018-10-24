@@ -1,4 +1,4 @@
-# Breakdown Javascript Part 1 
+# Breakdown of JavaScript Part 1 
 
 ## Contents 
 
