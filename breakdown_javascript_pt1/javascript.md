@@ -4,20 +4,18 @@
 
 To understand the history of JavaScript and why it is one of the best web programming languages to use today. You will learn more about variables, datatypes and conditionals by slowly put together the building blocks of what it means to build a beautiful yet functional website.
 
-## So.. where did it all start?  
+## So.. Where Did It All Start?  
 **JavaScript** 
 
 
 
-## It's JavaScript, not Java ?? 
+## It's JavaScript, Not Java ?? 
 
 Yes, JavaScript and Java are two different programming languages that have two different designs and capabilities. Despite the similar names,  **JavaScript** is widely known to be a "scripting language" for the cilent-side of the browser, it is what adds in the behavior of a website and **Java** is mostly known to be used as a compiling language for virtual machines. A lot of people tend to confuse the two but we don't want you to make that same mistake. 
 
 Throughout the program, we will be focusing only on learning more about our buddy Javascript. 
 
-## Why JavaScript is so unique from the others 
-
-**"Any application that can be written in JavaScript, will eventually be written in JavaScript" - Jeff Atwood , Founder of StackOverflow**
+## Why JavaScript Is So Unique 
 
 JavaScript is greatly known for building fast and high-performing web, desktop, mobile apps and browser extensions. 
 
@@ -26,7 +24,7 @@ JavaScript is greatly known for building fast and high-performing web, desktop, 
 * Create Full-Stack Web Apps 
 
 
-
+**"Any application that can be written in JavaScript, will eventually be written in JavaScript" - Jeff Atwood , Founder of StackOverflow**
 
 ## Apps, Websites, Games, etc..that was built using Javascript. 
 
