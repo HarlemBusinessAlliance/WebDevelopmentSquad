@@ -17,7 +17,7 @@ Throughout the program, we will be focusing only on learning more about our budd
 
 ## Why JavaScript is so unique from the others 
 
-"Any application that can be written in JavaScript, will eventually be written in JavaScript" - Jeff Atwood , Founder of StackOverflow
+**"Any application that can be written in JavaScript, will eventually be written in JavaScript" - Jeff Atwood , Founder of StackOverflow**
 
 JavaScript is greatly known for building fast and high-performing web, desktop, mobile apps and browser extensions. 
 
@@ -37,22 +37,30 @@ I am pretty sure that you have been an active user to one of these websites,apps
 Yes, you can build apps for the web too! 
 
 [Github](https://github.com/)
+
 [Wordpress](https://wordpress.com/)
+
 [Slack](https://slack.com/)
 
 #### Websites 
 
 [IBM Design](https://www.ibm.com/design/)
+
 [Mercedes Benz](https://www.awwwards.com/sites/mercedes-benz-eqc)
+
 [Tumblr](https://www.tumblr.com/)
+
 [Youtube](https://www.youtube.com/)
+
 [Netflix](https://netflix.com/)
 
 
 #### Games 
 
 [Bejeweled](https://itunes.apple.com/us/app/bejeweled-classic/id479536744?mt=8)
+
 [2048](http://gabrielecirulli.github.io/2048/)
+
 [Phaser](https://phaser.io/)
 
 
