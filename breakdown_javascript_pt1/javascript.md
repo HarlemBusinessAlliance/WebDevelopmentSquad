@@ -4,9 +4,8 @@
 
 To understand the history of JavaScript and why it is one of the best web programming languages to use today. You will learn more about variables, datatypes and conditionals by slowly put together the building blocks of what it means to build a beautiful yet functional website.
 
-## So.. Where Did It All Start?  
-**JavaScript** 
-
+## So.. where did it all start?  
+Inspired by Java, **JavaScript** was created in 1995 by Brendan Eich. It is the standard programming language for Web. It's the highest language used by millions of developers today (this includes myself). 
 
 
 ## It's JavaScript, Not Java ?? 
@@ -18,17 +17,15 @@ Despite the similar names,  **JavaScript** is widely known to be a "scripting la
 A lot of people tend to confuse the two but we don't want you to make that same mistake. 
 
 
-## Why JavaScript Is So Unique 
+## Why JavaScript is so unique 
 
 JavaScript is greatly known for building fast and high-performing web, desktop, mobile apps and browser extensions. 
 
+* Easiest program language to learn for beginners. 
 
-* Highest Used language by millions of developers/engineers.
+* Popular By Demand
 
-* Create Full-Stack Web Apps 
-
-* 
-
+* Interactive, Fun, and Has Created Other Platforms To Build Mobile-Friendly Apps. 
 
 
 
