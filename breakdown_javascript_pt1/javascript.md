@@ -8,7 +8,7 @@ To understand the history of JavaScript and why it is one of the best web progra
 Inspired by Java, **JavaScript** was created in 1995 by Brendan Eich. It is the standard programming language for Web. It's the highest language used by millions of developers today (this includes myself). 
 
 
-## It's JavaScript, Not Java ?? 
+## It's JavaScript, not Java ?? 
 
 Yes, JavaScript and Java are two different programming languages that have two different designs and capabilities. 
 
@@ -31,7 +31,7 @@ JavaScript is greatly known for building fast and high-performing web, desktop, 
 
 *"Any application that can be written in JavaScript, will eventually be written in JavaScript" - Jeff Atwood , Founder of StackOverflow*
 
-## Apps, Websites, Games, etc..that was built using Javascript. 
+## Apps..Websites..and Games that were built using Javascript. 
 
 I am pretty sure that you have been an active user to one of these websites,apps or games before. Check out these different examples below that will give you a little inspiration of what you can achieve/build using JavaScript, HTML, and CSS. Anything is possible in this world of programming! 
 
