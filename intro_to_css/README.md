@@ -5,7 +5,8 @@
 1. [CSS Basics](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/intro_to_css/intro_to_css.md)
 2. [Semantic Tags](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/intro_to_css/semantictags.md)
 3. [Bootstrap](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/intro_to_css/bootstrap.md)
-4. [To-Do List Project](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/intro_to_css/todolist.md)
+4. [CSS Group Project](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/intro_to_css/group_project.md)
+5. [To-Do List Project: Part 1](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/intro_to_css/todolist.md)
 
 ## Resources 
 
