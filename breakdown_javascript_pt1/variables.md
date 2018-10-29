@@ -28,7 +28,7 @@ Other Examples:
 
 ## Let's Try It Out! 
 
-Exercise 1: Want to find out how old you'll be? Calculate it!
+**Exercise 1: Want to find out how old you'll be? Calculate it!**
 
 * Store your birth year in a variable.
 * Store a future year in a variable.
@@ -37,7 +37,7 @@ Exercise 1: Want to find out how old you'll be? Calculate it!
 `For example, if you were born in 1988, then in 2026 you'll be either 37 or 38, depending on what month it is in 2026. Output them to the screen like so: "I will be either NN or NN in YYYY", substituting the values.`
 
 
-Exercise 2: It's hot out! Let's make a converter based on the steps here.
+**Exercise 2: It's hot out! Let's make a converter based on the steps here.**
 
 * Store a celsius temperature into a variable.
 * Convert it to fahrenheit and output "NN°C is NN°F".
