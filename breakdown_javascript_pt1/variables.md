@@ -8,14 +8,14 @@ A **variable** is a container that allows you to store some type of data/value i
 ## How do we define it? 
 In **JavaScript** the way that we declare a variable is by using the word `var`. This statement is followed by the `variableName` and set to the `data/value` type that you want it to be. 
 
-For Example: 
+**For Example:**
 
 `var favoriteColor = 'Blue';`
 
 `var` = declaring the variable , `favoriteColor` = the variable's name , `'Blue'` = is the string value that I wanted it to be. 
 
 
-Other Examples: 
+**Other Examples:** 
 
 `var favoriteNumber = 3;`
 
