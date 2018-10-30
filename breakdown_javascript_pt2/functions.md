@@ -27,10 +27,10 @@ In **JavaScript** we define a **function** by writing the function keyword follo
 
 For Example: 
 
-		` function example(num1,num2){
+		 function example(num1,num2){
 			return num1 + num2; 
 		}
-		`
+		
 
 ## What is the difference between using console.log and return? 
 
@@ -49,16 +49,15 @@ For example:
 
 Here I am declaring my function called aboutMe: 
 
-		`function aboutMe(name){
+		function aboutMe(name){
 			return 'Hello My Name Is' + '' + name;
-		}`
+		}
 
 
 Now I am going to callback my function called `aboutMe`. 
-
-		`
+		
 		aboutMe('Tionna'); 
-		`
+		
 
 The expected outcome should be `Hello My Name Is Tionna`. If you do not call your function at the end, the computer will throw you an error of `undefined`. 
 
