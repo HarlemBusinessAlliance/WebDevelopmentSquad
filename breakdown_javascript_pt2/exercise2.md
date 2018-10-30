@@ -2,3 +2,11 @@
 
 
 
+
+
+
+
+
+
+
+### Next Exercise 3 (Loops + Conditionals): [Exercise 3](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/exercise3.md)

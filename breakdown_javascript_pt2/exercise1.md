@@ -27,3 +27,4 @@ Write  a function called **divide** that takes in two arguments **x** and **y** 
 Write a function called **square** that takes in a number as an argument and **returns the that number multiplied by itself.**  
 
 
+### Next Exercise 2 (Strings): [Exercise 2](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/exercise2.md)

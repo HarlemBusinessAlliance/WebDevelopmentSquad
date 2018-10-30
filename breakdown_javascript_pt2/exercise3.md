@@ -1,3 +1,17 @@
 ## JS Exercise: Loops + Conditionals 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
