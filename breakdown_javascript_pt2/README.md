@@ -10,19 +10,12 @@
 
 ## Resources 
 
-
 [CodeWars](https://www.codewars.com/)
 
 [ES6 Tutorial For Beginners](https://www.youtube.com/watch?v=IEf1KAcK6A8)
 
-[You Don't Know Js: Intro to programming + Javascript](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
+[You Don't Know Js: Intro to Programming + Javascript](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
 
 [LearnCode.Academy(Youtube): Javascript Tutorial for Beginners](https://www.youtube.com/watch?v=fGdd9qNwQdQ)
-
-[CodeAcademy](https://www.codecademy.com/learn/introduction-to-javascript)
-
-[W3 Schools: Javascript Introduction Tutorial](https://www.w3schools.com/js/js_intro.asp)
-
-
 
 
