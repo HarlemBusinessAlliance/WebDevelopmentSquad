@@ -4,7 +4,6 @@
 * Write a function called **greetings** that takes in a person’s **name** and returns a message that says "Nice to meet you ______" .  `For Example it should return ‘Nice To Meet You Tionna!” `
 
 
-
 * Write a function called **isString** that takes an a string as an input and check whether or not the input is a string. 
 
 			`For Example: isString('w3schools'); //returns ---> true`
