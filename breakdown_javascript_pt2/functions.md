@@ -37,13 +37,13 @@ For Example:
 
 **console.log** - is only used to print out information in the console of your browser. It is a great tool to use for when you are debugging your code.  
 
-**return** - is a statement that will make the function stop immediately and execute back the specified value. 
+**return** - is a statement that will make the function stop completely and execute back the specified value. 
 
 
 
 ## What does it mean to callback your function? 
 
-When progamming you always want to make sure that you declare your function and after you write some statements inside of the body of the function you want to call back your function at the end of it. 
+When progamming you always want to make sure that you declare your function first and after your writing some code inside of the body of the function, you want to make sure you call it back at the end. 
 
 For example: 
 
@@ -59,7 +59,7 @@ Now I am going to callback my function called `aboutMe`.
 		aboutMe('Tionna'); 
 		
 
-The expected outcome should be `Hello My Name Is Tionna`. If you do not call your function at the end, the computer will throw you an error of `undefined`. 
+The expected outcome will be `Hello My Name Is Tionna`. If I do not call my function at the end, the computer will throw me an error of `undefined`. 
 
 
 
