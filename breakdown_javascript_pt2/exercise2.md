@@ -10,6 +10,7 @@
 * Write a function called **isString** that takes an a string as an input and check whether or not the input is a string. 
 
 `For Example: isString('w3schools'); //returns ---> true`
+
 `For Example: isString([4,5,6,7]); //returns ---> false`
 
 
@@ -28,7 +29,9 @@
 * Create a function called **verbing**. It should take a single argument, a string. **If its length is at least 3**, it should **add 'ing'to its end**, unless it already ends in 'ing', in which case it should add 'ly' instead. **If the string length is less than 3, it should leave it unchanged.**
 
 `For Example: verbing('swim') ---> 'swimming'`
+
 `For Example: verbing('swimming') ---> 'swimmingly'`
+
 `For Example: verbing('go') ---> 'go'`
 
 
