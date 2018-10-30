@@ -1,8 +1,6 @@
 ## JS Exercise: Strings 
 
 
-### Strings 
-
 * Write a function called **greetings** that takes in a person’s **name** and returns a message that says "Nice to meet you ______" .  `For Example it should return ‘Nice To Meet You Tionna!” `
 
 
