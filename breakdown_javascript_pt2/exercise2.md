@@ -37,7 +37,7 @@
 
 #### Resources
 
-* https://www.w3schools.com/js/js_string_methods.asp
+* [W3 Schools: String Methods](https://www.w3schools.com/js/js_string_methods.asp)
 
 
 #### Next: [Exercise 3](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/exercise3.md)
