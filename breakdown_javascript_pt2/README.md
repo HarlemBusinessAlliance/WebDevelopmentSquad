@@ -2,11 +2,11 @@
 
 ## Contents 
 
-1. [Functions](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt1/javascript.md)
-2. [Loops](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt1/syntax.md)
-3. [Conditionals](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt1/variables.md)
-4. [ES6 JS Syntax](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt1/datatypes.md)
-5. [JS Exercises + CodeWars](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt1/datatypes.md)
+1. [Functions](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/functions.md)
+2. [Loops](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/loops.md)
+3. [Conditionals](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/conditionals.md)
+4. [ES6 JS Syntax](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/es6.md)
+5. [JS Exercises](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/exercise1.md)
 
 ## Resources 
 
