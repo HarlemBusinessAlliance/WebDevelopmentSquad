@@ -10,7 +10,7 @@
 
 ## Resources 
 
-[CodeWars](https://www.codewars.com/)
+[CodeWars: Sign Up!](https://www.codewars.com/)
 
 [ES6 Tutorial For Beginners](https://www.youtube.com/watch?v=IEf1KAcK6A8)
 
