@@ -52,7 +52,7 @@ All of these statments are true so we are telling the computer to print out the 
 	4
 
 
-**5** will never be printed because that condition is **false**. 5 cannot be less than 5. 
+**5** will never be printed because that state will amount to be **false**. 5 cannot be less than 5. 
 
 ## How can we stop a for loop? 
 
