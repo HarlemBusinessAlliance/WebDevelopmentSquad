@@ -2,14 +2,7 @@
 
 
 
-## What is a conditional in JS?
-
-
-
-
-
-## Why it is useful?  
-
+## What is a conditional?
 
 
 
@@ -29,6 +22,6 @@
 
 
 
-## Let's try it out! 
+## Why is it useful! 
 
 
