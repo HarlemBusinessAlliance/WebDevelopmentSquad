@@ -17,26 +17,24 @@ For example:
 
 In this example, the loop will only run 4 times because **i must be less than 5** . 
 `console.log(i)` will print the following: 
-
-	`
+	
 	0
 	1
 	2
 	3
 	4
-	`
+	
 
 
 ## What is a while loop?  
 
 A **while loop** is similar but instead it loops through a block of code while a specified condition is **true**. For example: 
-
-	`
+	
 	var i = 0;
 	 while (i < 5){
 		console.log(i);
 	}
-	`
+	
 This can be viewed as while `i < 5` print that number to the console.
 
 while `0 < 5 ` print `0` to the console (true)
@@ -47,13 +45,12 @@ while `4 < 5 ` print `4` to the console (true)
 
 All of these statments are true so we are telling the computer to print out the following: 
 
-	`
 	0
 	1
 	2
 	3
 	4
-	`
+
 
 **5** will never be printed because that condition is **false**. 5 cannot be less than 5. 
 
