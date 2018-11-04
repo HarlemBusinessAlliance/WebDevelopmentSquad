@@ -13,7 +13,7 @@ For example: It is similar to the way you write code inside of your CSS. In CSS,
 
 Now instead of targeting an specific HTML element, we are now declaring a variable which is set to an object that will hold some type of information about something. 
 
-		`var person = {
+		var person = {
 
 			firstname: 'Ashley', 
 			lastname: 'Carter', 
@@ -27,9 +27,9 @@ Note: `firstname` is the property's **name** and `Ashley` is the property's **va
 
 **Syntax for creating an Object:** 
 
-	`var` `objectNameGoesHere` `=``{
-				`propertyName' `:` `propertyValue`
-			};`
+	var objectNameGoesHere = {
+				propertyName : propertyValue
+			};
 
 ## How can we have access to certain elements within an Object?  
 
@@ -37,7 +37,7 @@ You can access information within an Object similarly to the way you would do it
 
 For example: 
 
-		`var fruits = {
+		var fruits = {
 			type1: 'bananas',
 			type2: 'apples',
 			type3: 'oranges', 
