@@ -4,7 +4,7 @@
 
 1. [Arrays](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/deep_dive_into_js_pt1/arrays.md)
 2. [Objects](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/deep_dive_into_js_pt1/objects.md)
-3. [JS Exercises](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/exercise1.md)
+3. [JS Exercises](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/exercises.md)
 
 ## Resources 
 
@@ -12,7 +12,6 @@
 
 [JavaScript Array Method Reference Sheet](https://www.w3schools.com/jsref/jsref_obj_array.asp
 )
-
 [Eloqent Javascript: Objects & Arrays](https://eloquentjavascript.net/04_data.html)
 
 
