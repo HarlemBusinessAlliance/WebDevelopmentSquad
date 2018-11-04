@@ -2,9 +2,9 @@
 
 ## Contents 
 
-1. [Arrays](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/functions.md)
-2. [Objects](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/loops.md)
-3. [ES6 Syntax](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/conditionals.md)
+1. [Arrays](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/deep_dive_into_js_pt1/arrays.md)
+2. [Objects](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/deep_dive_into_js_pt1/objects.md)
+3. [ES6 Syntax](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/deep_dive_into_js_pt1/es6.md)
 4. [JS Exercises](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/blob/master/breakdown_javascript_pt2/exercise1.md)
 
 ## Resources 
