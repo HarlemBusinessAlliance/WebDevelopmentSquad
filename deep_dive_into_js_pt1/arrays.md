@@ -28,7 +28,7 @@ Note: Each element within an array is seperated by a comma.
 
 
 
-Another way to create it in JavaScript is by declaring the `Array` which is a keyword that can be used to create a new one. For example: 
+Another way to create it in JavaScript is by declaring the word `Array` which is a keyword that can be used to automatically create a new one. For example: 
 
 	`var thingsToDo = new Array('study', 'attend js workshop', 'buy groceries');`
 
@@ -56,9 +56,3 @@ I am calling the name of the array which is `fruits` and bracketing into it by p
 ## Why are Arrays Useful in JS? 
 
 Arrays are useful in JavaScript because it gives you a more cleaner, faster and efficient way of accessing some type of data. With arrays you have the ability to go through this list of data by using a `for loop` in order to maniuplate or use the data in a way that may work best for the program that you are building. 
-
-
-
-
-
-

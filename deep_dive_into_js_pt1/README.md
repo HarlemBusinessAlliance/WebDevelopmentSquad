@@ -9,10 +9,11 @@
 
 ## Resources 
 
-[CodeWars: Sign Up!](https://www.codewars.com/)
+[Introducing Arrays: W3Schools](https://www.w3schools.com/js/js_arrays.asp)
 
-[You Don't Know Js: Intro to Programming + Javascript](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md)
+[JavaScript Array Method Reference Sheet](https://www.w3schools.com/jsref/jsref_obj_array.asp
+)
 
-[LearnCode.Academy(Youtube): Javascript Tutorial for Beginners](https://www.youtube.com/watch?v=fGdd9qNwQdQ)
+[Eloqent Javascript: Objects & Arrays](https://eloquentjavascript.net/04_data.html)
 
 
