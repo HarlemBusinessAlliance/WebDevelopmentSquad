@@ -24,14 +24,14 @@ Try to practice using more built-in array methods on your own.
 ## Object Exercises 
 
 * Create an object that has some information about yourself, including your name, hometown, favorite food, and favorite musical artist. Feel free to add any other properties you'd like.
-		`
-		var tionna = {
-			name: 'Tionna', 
-			hometown: 'Brooklyn, NY', 
-			favorite_food: 'Ziti', 
-			favorite_artist: 'H.E.R'
-		}
-		`
+		
+			var tionna = {
+				name: 'Tionna', 
+				hometown: 'Brooklyn, NY', 
+				favorite_food: 'Ziti', 
+				favorite_artist: 'H.E.R'
+			}
+			
 
 
 * Create an object to hold information on your favorite recipe. It should have properties for title (a string), servings (a number), and ingredients (an array of strings).On separate lines (one console.log statement for each), log the recipe information so it looks like:
