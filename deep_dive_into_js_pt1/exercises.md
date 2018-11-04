@@ -60,5 +60,7 @@ Examples:
 ## Resources 
 
 [Array Built-In Method Reference Sheet](https://www.w3schools.com/jsref/jsref_obj_array.asp)
+
 [JS Object Methods](https://www.w3schools.com/js/js_object_methods.asp)
+
 [JS Newest Built-In Methods ](https://medium.freecodecamp.org/here-are-the-new-built-in-methods-and-functions-in-javascript-8f4d2fd794fa)
