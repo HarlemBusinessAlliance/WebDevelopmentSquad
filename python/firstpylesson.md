@@ -11,7 +11,7 @@ First Hello World Python program in the command prompt:
 - When the class is done, altogether, give yourselves a hand
 - Type Ctrl-D or exit() to exit the terminal
 
-Note: Type python --help for a summary of the main Python commands
+Note: Type python --help for a summary of the main Python commands, OR the help() function
 ---
 Second program in the command prompt:
 
@@ -25,12 +25,20 @@ factorial(n-1)
 ---
 Let's use the [Visual Studio Code IDE for our Python development](https://code.visualstudio.com/Download)  
 
-We're now downloading and opening firstpyfile.py in the Code IDE and talk about the similarities and differences of this interpretation method and the program interpreted from the command line.
+We're now downloading and opening firstpyfile.py in the Code IDE and talking about the similarities and differences of running Python scripts in Code and running the program from the command line.
+
+Right click in the .py file and choose "Run Python File in Terminal"
 ---
 CBS Story Break
 Python was made in the early 90's by [Guido van Rossum](https://gvanrossum.github.io//), the ["Benevolent Dictator for Life"](https://en.wikipedia.org/wiki/Benevolent_dictator_for_life) until this past July. He now resides in CA and works for Dropbox.
 --- 
-Python data types: Numbers, boolean, strings, lists, dictionaries
+Built-in Python data types: Numeric (int, float, long, complex), boolean, sequences (str, lists, tuples, bytes, byte array), Sets (set, frozenset), mapping with dictionaries, and None.
+
+There's some great type conversion functions: int(), float(), str(), bool(), set(), list(), and tuple(). You can check the type of a datum by using type().
+
+Operators: Same as for JS except the modulus operator in JS is known as Modulo in Python.
+
+Identity is tested by the keywords is and is not. This tests
 ---
 We're going to use a nifty module called *Turtle*. All we have to do is before our Python program's code, we type import turtle. And we can then use all of that module's capabilities. It's similar in nature to the HTML5 canvas element, a drawing board for visuals. This tool and more is in the language itself.
 
@@ -49,7 +57,7 @@ Mess around with more turtle moves by using the .backward(), .left(), and .right
 Try the following program, now.
 
 - Type import turtle
-- Type turtle.shape("turtle") 
+- Type turtle.shape("turtle") or another parameter value “arrow”, “circle”, “square”, “triangle”, or “classic”
 - Type turtle.forward(0) 
 - Type turtle.left(45)
 - Type turtle.forward(5)
@@ -58,5 +66,5 @@ Try the following program, now.
 
 Want to start over? No problem. Just type turtle.reset()
 
-This module or feature gives us a good way to practice using functions, navigating visual landscapes using pixels and degrees, and importing a helpful tool.
+This module or feature gives us a good way to practice using functions that are methods of the Turtle class, navigating visual landscapes using the (x, y) pixel plane and rotating in degrees, and importing.
 
