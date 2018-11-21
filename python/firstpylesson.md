@@ -1,9 +1,7 @@
 Installing Python on our laptops
 
 Open up the terminal and type python. What do you see?
-
 Open up the terminal and type python3. What do you see?
-
 If neither command returns a version of the Python language installed on your computer [download the latest version](https://www.python.org/downloads/)
 
 ---
