@@ -3,6 +3,7 @@ Diving into the data types!
 but
 
 rrrewind to us talking about operators. Check these out:
+
 |= 	means if the value on the left exists store THAT into the variable; if not store what's on the right; Performs bitwise OR and assigns value to the left operand.
 
 ^= 	means the left value will be brought to the power of the thing on the right; Performs bitwise XOR and assigns value to the left operand.
