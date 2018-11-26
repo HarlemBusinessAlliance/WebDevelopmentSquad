@@ -8,13 +8,13 @@ rrrewind to us talking about operators. Check these out:
 
 ^= 	means the left value will be brought to the power of the thing on the right; Performs bitwise XOR and assigns value to the left operand.
 
->> 	Shifts the bits of the first operand right by the specified number of bits.
+[[[>> 	Shifts the bits of the first operand right by the specified number of bits.
 
 << 	Shifts the bits of the first operand left by the specified number of bits
 
 >>= means Performs bitwise right shift and assigns value to the left operand
 
-<<= means Performs bitwise left shift and assigns value to the left operand
+<<= means Performs bitwise left shift and assigns value to the left operand]]]
 
 //= means Floor divides the variable by a value and assigns the result to that variable
 
