@@ -4,6 +4,7 @@ Don't have one? Check out this [business name generator](https://tinyurl.com/y72
 ---
 ## Logo image link
 Don't have one? Check out this [logo generator](https://logomakr.com/). If you don't want one no worries. How about a nice color scheme? Combine nice colors [here](JavaScript)
+Syntax: ![img name](url)
 
 ---
 ## Greet your future users here, ending the statement with an invitation to use your APP NAME! Don't have one? Check out this [business name generator](https://tinyurl.com/y72xe3lc)

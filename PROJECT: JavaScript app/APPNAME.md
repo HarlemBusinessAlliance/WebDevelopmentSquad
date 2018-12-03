@@ -1,6 +1,6 @@
 # Whipppo
 
-https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/meke_APPNAME_philomena/media/logo.png
+[!logo](https://raw.githubusercontent.com/HarlemBusinessAlliance/WebDevelopmentSquad/meke_APPNAME_philomena/PROJECT%3A%20JavaScript%20app/media/logo.png)
 
 ---
 ## Hello folks. I want you to ENJOY the PRESENT. With Whipppo!
