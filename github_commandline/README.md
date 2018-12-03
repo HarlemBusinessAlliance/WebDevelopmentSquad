@@ -55,6 +55,7 @@ A terminal also known as a command prompt(cmd) in Windows is an operating system
 
 
 ## REMEMBER these Git branch commands:
+```
 - git checkout <branchname>
 		   Switch the current branch to the  <branchname> you specified
 - git branch -m, --move
@@ -76,6 +77,7 @@ A terminal also known as a command prompt(cmd) in Windows is an operating system
            commits from the test branch.
 - git push --set-upstream origin <branchname> 
            Pushes the branch to the remote repo
+```
 
 Here are some examples:
 ```
