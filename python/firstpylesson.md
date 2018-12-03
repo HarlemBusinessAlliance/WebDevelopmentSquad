@@ -52,7 +52,7 @@ The "turtle" is the arrow that we will move around as we wish. Let's do some now
 
 - Type python
 - type import turtle
-- Type Turtle.forward(0) to see the drawing board pop up!
+- Type turtle.forward(0) to see the drawing board pop up!
 - Type turtle.forward(25)
 - Type turtle.forward(5)
 - Type turtle.forward() and in the parenthesis another number

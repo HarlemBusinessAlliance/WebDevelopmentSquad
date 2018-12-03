@@ -4,34 +4,34 @@ Files
 Yup. Files.
 
 
-#FILES!
+FILES!
 
 File names
 
-	open() - Takes two parameters
-	.write() - Writes stuff to an opened file
-	.mode - Is it readable? Writeable? Appendable
-	.readlines()
+open() - Takes two parameters
+.write() - Writes stuff to an opened file
+.mode - Is it readable? Writeable? Appendable
+.readlines()
 
 Moving files
 
 Reading files
-	Processing text from the file with string operations
+Processing text from the file with string operations
 
 Writing
 
 
-	import os
-	import datetime
-	import time
-	import shutil
+import os
+import datetime
+import time
+import shutil
 
-	.name
-	.exists
-	.realpath
-	.ctime
-	.datetime
-	.getmtime()
+.name
+.exists
+.realpath
+.ctime
+.datetime
+.getmtime()
 
 ---
 Web data. Yummee.
@@ -41,16 +41,16 @@ Gimme the outside data
 ---
 JSON
 
-	import urllib.request
+import urllib.request
 
-	import json
+import json
 
-	.request
+.request
 
 ---
 Parsing in HTML
 
-	import HTMLParser
+import HTMLParser
 
 ---
 Manipulating XML
