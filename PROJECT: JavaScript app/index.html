@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Whipppo. Sup?</title>
+
+		<script
+			src="https://code.jquery.com/jquery-3.3.1.min.js"
+			integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			crossorigin="anonymous">
+	  	</script>
+	  	<!-- // <script src="https://js.braintreegateway.com/web/dropin/1.14.1/js/dropin.min.js"></script> -->
+		<script src="js/scripts.js"></script>
+
+		<link href="media/logo.png" 	rel="shortcut icon" type="image/png" />
+		<link href="css/skeleton.css" 	rel="stylesheet" />
+		<link href="css/palette.css" 	rel="stylesheet" />
+		<link href="css/normalize.css" 	rel="stylesheet" />
+		<link href="css/styles.css" 	rel="stylesheet" />
+	</head>
+
+	<body>
+		<header class="default-primary-color white">
+			<h1>Whipppo. Enjoy the Present!</h1>
+			<nav>
+				<legend>Check out these APIs:</legend>
+				<select name="apiSelect" id="apiSelect">
+					<option value="nyt">NYTimes</option>
+					<option value="ghibli">Studio Ghibli</option>
+					<option value="openwm">Open Weather Maps</option>
+					<option value="gmaps">Google Maps</option>
+					<option value="spotify">Spotify (coming soon)</option>
+					<option value="giphy">Giphy</option>
+					<option value="giantbomb">GiantBomb (coming soon)</option>
+					<option value="twitch">Twitch (coming soon)</option>
+					<option value="mta">MTA (NYC transit) (coming soon)</option>
+					<option value="braintree">Braintree (coming soon)</option>
+				</select>
+			</nav>
+		</header>
+
+		<aside>
+			<strong>
+				This info is up to date as of <span id="lastUpdated"></span>. 
+				Since today is <span id="whatIsToday"></span> it is <span id="upToDateOrNot"></span>.
+			</strong>
+			<form action="#">
+	  			<label for="whipppoRecommendations">
+	  				Recommend an API?
+	  			</label>
+				&nbsp;<input type="text" id="whipppoRecommendations" placeholder="API name:"> 
+				<button class="accent-color white">Submit</button>
+			</form>
+		</aside>
+
+
+		<hr class="u-full-width"/>
+		<section class="apis container">
+<!-- NYTimes -->
+			<h3 id="nyt">API: NYTimes</h3>
+			<div class="row">
+				<div class="one-third column"><p>Aaah yes, the New York Times. Read internationally, its API is offered to developers worldwide. For FREE! <a href="https://developer.nytimes.com/">Join in on the fun!</a></p></div>
+				<div class="two-thirds column nyt"><p>NYTimes example result:</p><p>Title: "More Small Companies Avoid I.P.O.s, Sapping U.S. Economy’s Vitality"<br>Abstract: "Small and midsize firms are increasingly steering clear of going public, giving big companies outsize influence over stock markets and hampering business creation, wage growth and productivity."<br><a href="https://www.nytimes.com/2018/11/27/business/company-ipo-buyout-private.html">Read more on NYTimes.com</a> </p></div>
+			</div>
+			<hr class="u-full-width"/>
+
+<!-- Studio Ghibli -->
+			<h3 id="ghibli">API: Studio Ghibli</h3>
+			<div class="row">
+				<div class="two-thirds column ghibli"><p>Studio Ghibli example result:</p></div>
+				<div class="one-third column"><p>The <a href="https://ghibliapi.herokuapp.com/">Studio Ghibli API's</a> used by developer Tania Rascia to build <a href="https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/">a great learning tool found on her site</a>. </p></div>
+			</div>
+			<hr class="u-full-width"/>
+
+<!-- Open Weather Maps -->
+			<h3 id="openwm">API: Open Weather Maps</h3>
+			<div class="row">
+				<div class="one-third column"><p>The <a href="https://openweathermap.org/api">Open Weather Maps API</a> is one of the easiest APIs I've ever dealt with. I first learned about it in code camp but it's quite amazingly lightweight and can be used for all kinds of things!</p></div>
+				<div class="two-thirds column openwm"><p>Open Weather Maps example result for New York:</p><p><img src="http://openweathermap.org/img/w/10d.png" alt="Weather icon" style="height: 40px; width:auto;"> &nbsp; There is light rain right now.<br></p></div>
+			</div>
+			<hr class="u-full-width"/>
+
+<!-- Google Maps -->
+			<h3 id="gmaps">API: Google Maps</h3>
+			<div class="row">
+				<div class="two-thirds column gmaps"><p>Google Maps example result:</p><div id="map"><img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2012/07/Screen-Shot-2012-07-31-at-10.53.12-AM.png" alt="Test image"></div></div>
+				<div class="one-third column"><p>Here's <a href="https://developers.google.com/maps/documentation/javascript/tutorial">an overview of the Maps JavaScript API</a>, for your reading pleasure. It's riveting.</p></div>
+			</div>
+			<hr class="u-full-width"/>
+
+<!-- Spotify -->
+			<!-- <h3  id="spotify">API: Spotify</h3>
+			<div class="row">
+				<div class="one-third column"><p>INFO</p></div>
+				<div class="two-thirds column spotify"><p>Spotify example result:</p></div>
+			</div>
+			<hr class="u-full-width"/> -->
+
+<!-- Giphy -->
+			<h3 id="giphy">API: Giphy</h3>
+			<div class="row">
+				<div class="one-third column"><p>From <a href="http://api.giphy.com">http://api.giphy.com</a></p></div>
+				<div class="two-thirds column giphy"><p>Giphy example result:</p><p><img src="https://media0.giphy.com/media/3o6fJ1OyNexdf08noQ/giphy-downsized.gif" alt="Funny Giphy API gif" style="width:300px; height:auto;"><br>Title: "martha stewart drinking GIF by VH1"</p></div>
+			</div>
+
+<!-- Gyfycat -->
+			<!-- 
+			<hr class="u-full-width"/>
+			<h3 id="gyfycat">API: Gyfycat</h3>
+			<div class="row">
+				<div class="one-third column"><p>INFO</p></div>
+				<div class="two-thirds column gyfycat"><p>Gyfycat example result:</p></div>
+			</div>
+			<hr class="u-full-width" /> -->
+
+<!-- GiantBomb -->
+			<!-- <h3 id="giantbomb">API: GiantBomb</h3>
+			<div class="row">
+				<div class="one-third column"><p>GiantBomb has a forum entry covering a <a href="https://www.giantbomb.com/forums/api-developers-3017/quick-start-guide-to-using-the-api-1427959/">quick start guide on how to use the API</a>. When new to an API it's always a good idea to go to any shortcut pages or posts like this first. Then when you get the info you need go back and read the documentation more in depth.<br /><br />
+				A tip: Here's what the url should look like when you form it -> <em>http://www.giantbomb.com/api/[RESOURCE-TYPE]/[RESOURCE-ID]/?api_key=[YOUR-KEY]&format=[RESPONSE-DATA-FORMAT]&field_list=[COMMA-SEPARATED-LIST-OF-RESOURCE-FIELDS]</em></p></div>
+				<div class="two-thirds column giantbomb"><p>GiantBomb example result:</p></div>
+			</div>
+			<hr class="u-full-width" /> -->
+
+<!-- Twitch -->
+			<!-- <h3 id="twitch">API: Twitch</h3>
+			<div class="row">
+				<div class="two-thirds column twitch"><p>Twitch example result:</p></div>
+				<div class="one-third column"><p>Twitch Developers earn their chops with this one. <a href="https://dev.twitch.tv/docs/api/guide/">Take a look at the guide</a>. The new Twitch API provides relevant data in an easy way. <br /><br />At least I HOPE you find it easy.</p></div>
+			</div>
+			<hr class="u-full-width"/> -->
+
+<!-- MTA -->
+			<!-- <h3 id="mta">API: MTA</h3>
+			<div class="row">
+				<div class="one-third column">
+					<p>The documentation for the MTA api is horrid. SO confusing for newcomers to the data.</p>
+					<p>Here is some <a href="https://tinyurl.com/y9cfgl4e">information on the General Transit Feed Specification</a> <br />
+					Examples of great apps using MTA API data are <a href="https://wheresthefuckingtrain.com/">here</a> and <a href="https://www.zentralesfundbuero.com/en/statistik_mta.php">here</a></p>
+				</div>
+				<div class="two-thirds column mta"><p>MTA example result:</p></div>
+			</div>
+			<hr class="u-full-width"/> -->
+
+<!-- Braintree -->
+			<!-- <h3 id="braintree">API: Braintree</h3>
+			<div class="row">
+				<div class="two-thirds column braintree"><p>Braintree example result:</p>
+					<button id="braintreeBtn" class="accent-color">Braintree submit</button></div>
+				<div class="one-third column"><p>INFO</p></div>
+			</div> -->
+ 		</section>
+		
+
+
+		<hr class="u-full-width" />
+		<section class="resources container">
+			<h2>Helpful resources</h2>
+			<a href="https://bradfults.com/the-best-api-documentation-b9e46400379a">What makes the best API documentation?</a> 
+			&nbsp; 
+			<a href="https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch">Using the Fetch API</a> 
+			&nbsp; 
+			<a href="https://www.giantbomb.com/forums/api-developers-3017/blocked-by-cors-in-localhost-1810542/#js-message-1">Oh that pesky CORS hiccup! Re: GiantBomb</a>
+		</section>
+		
+		<hr class="u-full-width" />
+		
+		<a href="" onclick="window.location.href = window.location.href;" id="topButton">&#8679;</a>
+
+		<footer>
+			<h6>Thanks for visiting!</h6>
+			<small>Meke's Site</small>
+		</footer>
+
+	  	<!-- // <script src="https://maps.googleapis.com/maps/api/js?&callback=initMap&key=" type="text/javascript" async defer></script> -->
+		<script>
+			// var map;
+			// function initMap() {
+			// 	var mapsLocation = document.getElementById('map');
+
+			// 	map = new google.maps.Map(mapsLocation, {
+			// 	  center: {lat: 40.71, lng: -74.01 },
+			// 	  zoom: 8
+			// 	});
+			// }
+			/*
+			braintree.dropin.create({
+				authorization: 'CLIENT_TOKEN_FROM_SERVER',
+				container: '#dropin-container'}, 
+				function (createErr, instance) {
+					$("button#braintreeBtn").on('click', function () {
+						instance.requestPaymentMethod(function (err, payload) {
+							console.log("Ok now what?!");
+						// Submit payload.nonce to your server
+					});
+				});
+			});*/
+		</script>
+	</body>
+</html>

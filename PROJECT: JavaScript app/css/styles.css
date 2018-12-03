@@ -1,0 +1,18 @@
+aside 	{ padding-left: 8%; }
+aside strong 	{ width: 45%; display: inline-block; margin-right: 4%; }
+aside form 		{ width: 47%; display: inline; }
+h1		{ display: inline-flex; padding-right: 8%; }
+header 	{ border-top: 20px solid #512DA8; padding-left: 8%; margin-bottom: 1%; }
+img 	{ width: 20px; 		height: auto; }
+label 	{ display: inline; 	font-weight: normal; }
+li 		{ list-style-type: none; }
+nav		{ float: right; margin-right: 8%; }
+p 		{ padding:2% 2% 0; }
+select 	{ height: 25px; }
+
+
+#map, #map img 	{ height: 200px; width: auto; }
+#topButton 		{ font-size: 1em; border-radius: 50%; background: purple; position: fixed; bottom: 3%; right: 3%; padding: 8px 12px; }
+
+div.two-thirds 	{ border: 1px solid black;}
+.resources 		{ text-align: center; }

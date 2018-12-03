@@ -1,0 +1,7 @@
+Notes
+
+Button isn't triggering a test alert popup by using jQuery
+
+Lots of positioning issues
+
+Keep getting an RefererNotAllowedMapError error when loading the Google Maps API map
