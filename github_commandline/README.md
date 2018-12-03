@@ -78,11 +78,12 @@ A terminal also known as a command prompt(cmd) in Windows is an operating system
            Pushes the branch to the remote repo
 
 Here are some examples:
+```
 $ git branch my2.6.14 v2.6.14
 $ git checkout my2.6.14
 $ git branch -D test
 $ git push --set-upstream origin stats_attack_refactor
-
+```
 
 
 ## Command References for Windows & Github 
