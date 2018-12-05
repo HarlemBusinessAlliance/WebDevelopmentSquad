@@ -18,6 +18,7 @@ Steps for use:
 - Send that request
 
 Some examples
+
 	'''
 	var url = "https://rest.coinapi.io/v1/exchangerate/BTC?apikey=809CA8DC-73D9-4616-A709-14D76FA433ED";
 		var request = new XMLHttpRequest();
@@ -52,6 +53,7 @@ Or
 	'''
 
 Or
+
 	'''
 		var xhr = new XMLHttpRequest();
 
@@ -78,6 +80,8 @@ Note: Make sure to include the jQuery CDN or downloaded jQuery library file name
 Note: If you're using an older jQ version (< 1.9.0) you should use "type" instead of "method", although they are interchangeable anyway
 
 An example
+
+
 	'''
 	$(document).ready(function() {
 		var todaysData = "";
@@ -103,6 +107,7 @@ An example
 
 
 Or, using some Promise callbacks (.done(), .fail())
+
 	'''
 	$(document).ready(function() {
 		var todaysData = "";
@@ -133,6 +138,7 @@ Or, using some Promise callbacks (.done(), .fail())
 For this type of request there are two steps. The first is to make the request and the second is to call the .json()method to transform the received data, aka the response.
 
 Here's an example of the Fetch request structure
+
 	'''
 	// Of course, you have to form your headers 
 	var h = new Headers();
@@ -166,6 +172,7 @@ Steps to use the library:
 - Add any and all needed headers
 
 Example code
+
 	'''
 	axios.get(url, {
 		params: {
@@ -177,7 +184,9 @@ Example code
 	.then(response => console.log("Great! Here is the response: " + response));
 
 	'''
+	
 Or
+
 	'''
 	const instance = axios.create({
 	  baseURL: 'https://api.domain.com/apidirectory/',
@@ -185,7 +194,9 @@ Or
 	  headers: {'A-Custom-Header': 'header-value'}
 	});
 	'''
+	
 Or 
+
 	'''
 	const data = { 'foo': "food", "bar": "bar" };
 	var headerPairs = {"X-Custom-Header":"Custom-Answer","Another-header":"another-Answer"};
@@ -200,6 +211,7 @@ Or
 	'''
 
 Or, by using an (ES 2017!) async/await function as some API SDKs require (remember the try/catch statement?!):
+
 	'''
 	async function userData() {
 	  try {
@@ -234,6 +246,7 @@ https://medium.com/@thejasonfile/fetch-vs-axios-js-for-making-http-requests-2b26
 Any problems? Try clearing the browser cache, reloading the page, checking out the inspect tool, load the page in another browser, try hosting the site on Github.io or download a local server and run the site's code from it, search on StackOverflow/Reddit/Medium/a general Google search for a solution, pray, ask another developer, load dummy data temporarily, test it out in a curl request (with the needed headers) in the command prompt, try an api that doesn't need credentials or a key, ask in the Slack channels!
 
 Example of a curl command:
+
 	'''
 		curl https://api.fantasydata.net/v3/nfl/stats/json/News%20HTTP/1.1 -H "Ocp-Apim-Subscription-Key: 33bbfdd021184014a83998a965065af"
 	'''
