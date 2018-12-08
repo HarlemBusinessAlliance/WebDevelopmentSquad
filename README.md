@@ -6,12 +6,12 @@ This will be your go-to guide for resources and keeping yourself updated on the 
 
 
 ## Units  
-1. [Intro to HTML](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/intro_to_html)
-2. [Intro to CSS](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/intro_to_css)
-3. [Breakdown of Javascript Pt.1](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/breakdown_javascript_pt1)
-4. [Breakdown of Javascript Pt.2](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/breakdown_javascript_pt2)
-5. [Deep Dive into JS Pt.1](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/deep_dive_into_js_pt1)
-6. [Deep Dive into JS Pt.2](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/deep_dive_into_js_pt2)
+1. [Intro to HTML](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/html)
+2. [Intro to CSS](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/css)
+3. [Breakdown of Javascript Pt.1](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/javascript/breakdown_javascript_pt1)
+4. [Breakdown of Javascript Pt.2](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/javascript/breakdown_javascript_pt2)
+5. [Deep Dive into JS Pt.1](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/javascript/deep_dive_into_js_pt1)
+6. [Deep Dive into JS Pt.2](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/javascript/deep_dive_into_js_pt2)
 7. [Peer JavaScript Project](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/PROJECT:%20JavaScript%20app)
 8. [Group Final Business Project](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/PROJECT:%20Final%20business%20app)
 9. [Python](https://github.com/HarlemBusinessAlliance/WebDevelopmentSquad/tree/master/python)
