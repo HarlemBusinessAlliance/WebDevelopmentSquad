@@ -93,7 +93,7 @@ We're going to import various methods and properties of the Date and Time classe
 
 	import datetime
 
-	whatIsNow = datetime.datetime.Now()
+	whatIsNow = datetime.datetime.now()
 	print(whatIsNow.year)	
 	print(whatIsNow.strftime("%A"))			# Returns datetime info as a readable string, using one parameter. Cool huh?
 
