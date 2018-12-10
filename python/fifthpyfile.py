@@ -1,37 +1,47 @@
-class User: 
-    pass 
+'''class User: # Our class
+    pass # A placeholder keyword letting the program know to save a space in this code block
 
-user1 = User()
+user1 = User() # An object; instance of the User class
+# Let's add two properties of the new object
 user1.first_name = 'Meke'
 user1.last_name = 'Brown'
 
 print(user1.last_name)
+'''
 
+'''
+user2 = User()
+user2.first_name = input("What is your first name? ")
+user2.last_name = input("And what is your last name? ")
+
+print("Thank you", user2.last_name)
+'''
 
 # ------------------ #
 # {key:value}
-sample = {'red':'dog','green':'fish','blue':53}
+'''sample = {'red':'dog','green':'fish','blue':53}
 print (sample['red'] )
 print ( sample['green'])
 print ( sample['blue'])
 
 print ( sample.keys() )
 print ( sample.values() )
-
+'''
 
 # ------------------- #
-x = input("Test Blurb: ")
+'''
+x = input("What is your name: ")
 print ( x[3] )
 
-test_input = input("test blurb!")
-
+test_input = input("Have a great day! Press enter to continue")
+'''
 
 # ------------------- #
 #def foo(sample):
 #	print(sample)
 
 #foo(93234234)
-
+'''
 x = 4
 
 class Car:
@@ -54,3 +64,4 @@ car1.stats()
 
 car1.drive()
 car1.stats()
+'''

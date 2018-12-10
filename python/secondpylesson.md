@@ -1,4 +1,4 @@
-Diving into the data types!
+## Diving into the data types!
 
 but
 
@@ -46,7 +46,7 @@ Note: What's the difference between print() and return anyway?! Well, the print 
 
 ---
 Classroom discussion:
-Classes
+## Classes
 
 Base class
 
@@ -65,14 +65,14 @@ Super Classes
 Class variables
 
 ---
-Objects
+## Objects
 
 Initialization of an object 
 
 Instance variables
 
 ---
-Modules using import
+## Modules using import
 
 A module is a library you can use great computations from. You can use your own created .py module or one already made; Just import it into the file you need elements from it in.
 	
@@ -92,7 +92,7 @@ A module is a library you can use great computations from. You can use your own 
 Examples of modules: platform, os, datetime, json, timedelta
 
 ---
-The Date and Time classes
+## The Date and Time classes
 
 We're going to import various methods and properties of the Date and Time classes from their packages (aka libraries, modules, gems, or its equivalent depending on the language you are programming in)
 
