@@ -31,6 +31,16 @@ rrrewind to us talking about operators. Check these out:
 	>> = Signed right shift	Shift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off
 '''
 
+Many of the operators above work on numbers as a series of bits. The operators convert the numbers into binary for more low-level programming usage at the machine level. Their use can be for "truthy" purposes. And according to a commenter on StackOverflow, ["One of the most common uses of bitwise operations is for parsing hexadecimal colours."](https://stackoverflow.com/questions/1746613/bitwise-operation-and-usage)
+'''
+	0 is written as "0"
+	1 is written as "1"
+	2 is written as "10"
+	3 is "11"
+	4 is "100"
+	5 is "101"
+'''
+
 ---
 range(), __init__(), .update(), __iter__(), .remove(), __next__(), .add(), .pop(), .clear(), .dumps()
 
@@ -104,6 +114,9 @@ We're going to import various methods and properties of the Date and Time classe
 
 
 
+---
+References
+https://wiki.python.org/moin/BitwiseOperators
 
 
 
