@@ -1,7 +1,13 @@
 .DS_Store
 
+.vscode
+.vscode/
+
 midpoint_quiz.txt
 
+python/.vscode/
+python/meke.txt
+python/participants.txt
 python/textfile.txt
 python/reasons.txt
 python/stats.txt 
