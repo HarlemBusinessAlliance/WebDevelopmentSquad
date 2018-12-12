@@ -36,9 +36,6 @@ while counter >= 1:
 
 
 ---
-## Project: User research survey
-
----
 ## Connection to HTML/CSS/JS
 Basics of a website framework:
 - Modeling of each data entity or holder that the site will do stuff with 
@@ -69,9 +66,21 @@ Great Python web frameworks to connect your Python app to your HTML/CSS/JS web p
 - [web2py](http://www.web2py.com/)
 
 
-Django supports 4 databases: MySQL, PostgreSQL, SQLite, and Oracle. We'll be using MySQL.
+Django supports 4 databases: MySQL, PostgreSQL, SQLite, and Oracle. We'll be using MySQL. Out the box it has SQLite configured. This is a fine database for basic purposes like ours but we may integrate another database.
+
+Django is great for its password authentication and other tools centered around security.
 
 
+
+What we are working with for your final app is [Flask, a "microframework"](http://flask.pocoo.org/) that's lightweight and comes with everything you will need for a demo app. For a full production version of your technology I recommend building it with the Django framework.
+
+[Let's complete this exercise to get a feel for the Flask framework](https://github.com/pallets/flask/tree/master/examples/tutorial/)
+
+Then we will [complete another exercise from the same tutorial](https://github.com/pallets/flask/tree/master/examples/javascript). These exercises may be hard but don't worry. You can always scrap the code and try again.
+
+
+---
+## Project: User research survey
 
 ---
 References

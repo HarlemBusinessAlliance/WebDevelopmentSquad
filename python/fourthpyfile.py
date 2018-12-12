@@ -2,29 +2,29 @@
 
 # Collecting Input
 '''
-x = raw_input("My name: ")
-
-print ("Hello," )
-print (x)
-
+import random
+x = input("My name: ")
 
 rolls = []
-for n in range(100000):
+for n in range(10):
 	rolls.append([random.randint(1, 10), random.randint(1, 10)])
+
+print("Hello,", x, ". You have the following rolls: ", rolls)
 '''
+
 
 # Rock Paper Scissors, but computer always picks Rock.
 '''
 print ( "1) Rock\n2) Scissors\n3) Paper ")
 
-user_input = raw_input("Select a choice:")
-#print ( type(user_input) )
+user_input = int(input("Select a choice:"))
+print ( type(user_input) )
 
-if user_input == '1':
+if user_input == 1:
 	print ( "Draw!")
-elif user_input == "2":
+elif user_input == 2:
 	print ( "You lose!")
-elif user_input == "3":
+elif user_input == 3:
 	print ( "You win!")
 else:
 	print ( "You didn't give a proper value")
@@ -32,19 +32,14 @@ else:
 
 # ---------------------------- #
 # Count the amount of files you have in a folder, in your program
-'''
-counter = 10
-while counter >= 0:
-	print ( counter )
-	counter = counter - 1
 
-# Or 
-counter = 0
-while True:
-	print ( counter )
-	counter = counter + 1
-	if counter > 10:
-		break
+'''
+import os, os.path
+
+onlyfiles = next(os.walk("/"))[2] #dir is your directory path as string
+print(len(onlyfiles))
+
+print(len([name for name in os.listdir('.') if os.path.isfile(name)]))
 '''
 
 # ---------------------------- #
@@ -72,7 +67,17 @@ while start <= choice:
 		print ( start )
 		pass
 
-	start += 1 # start = strart + 1
+	start += 1 # start = start + 1
 
 print (start)
+'''
+
+'''
+def make_incrementor(n):
+	return lambda x: x + n
+
+f = make_incrementor(42)
+print(f(0))
+
+print(f(1))
 '''

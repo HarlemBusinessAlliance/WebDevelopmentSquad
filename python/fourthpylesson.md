@@ -1,6 +1,10 @@
-## Review ALL previous Python lessons on your own outside of class
+# Review ALL previous Python lessons on your own outside of class
 
-The Date and Time classes
+
+## Python Input/Output
+
+---
+## A review of the Date and Time classes
 
 We're going to import various methods and properties of the Date and Time classes from the datetime package (aka library, module, gem, or its equivalent depending on the language you are programming in)
 
@@ -19,10 +23,18 @@ We're going to import various methods and properties of the Date and Time classe
 	print(currentCohort["student1"], currentCohort["student3"])
 
 ---
-## File navigation
+## Lambda functions
+
+Lambda functions are just functions without a name. They can be very useful inside of functions, returning calculations for unknown inputs. Abstraction when done right can be useful, and lambdas can only work on one calculation.
+
 
 ---
 References
+
+https://docs.python.org/3/tutorial/controlflow.html#lambda-forms
+
+https://www.w3schools.com/python/python_lambda.asp
+
 https://www.udacity.com/course/machine-learning-for-trading--ud501
 
 https://www.geeksforgeeks.org/python-programming-language/

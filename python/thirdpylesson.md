@@ -43,21 +43,33 @@ When you retrieve the innards of a file you can process the text with string ope
 import requests
     Used to connecto to APIs
     Use pip or easy_install to install the requests module in the terminal ("pip install requests" for Windows)
+
 import os
+    Allows you to interact with the operating system your program is running on. You can retrieve the paths of important files, delete files, get info on the user the operating system/computer is registered to, etc.
+
 import datetime
-    .ctime
-    .datetime
-    .getmtime()
+    Supplies you with the ability to retrieve the date and time the operating system has, and output that info in different ways.
+
+    Ex. of methods: .ctime
+                    .datetime
+                    .getmtime()
+
+import date
+    A date object represents a date (year, month and day) in an idealized calendar, the current Gregorian calendar indefinitely extended in both directions.
+
 import time
+    A time object represents a (local) time of day, independent of any particular day, and subject to adjustment.
+
 import shutil
-    shutil.copyfile('data.db', 'archive.db')
-    shutil.move('/build/executables', 'installdir')
+    Lets you copy and move files/directories easily
 
-'''
-    import random
-    print(random.choice(['apple', 'pear', 'banana']))
-'''
+    Ex. shutil.copyfile('data.db', 'archive.db')
+        shutil.move('/build/executables', 'installdir')
 
+import random
+    Allows you to generate random numbers
+
+    Ex. print(random.choice(['apple', 'pear', 'banana']))
 
 ---
 ## Web data. Yummee.
@@ -84,37 +96,18 @@ Gimme the outside data
 ---
 ## JSON
 
-import json 
+    import json - The module that supplies you with all of the methods associated with parsing json data
 
-json.dumps() - Outputs structured data as JavaScript Object Notation. Just make sure to import the json package!
+    json.dumps() - Outputs structured data as JavaScript Object Notation. Just make sure to import the json package!
 
----
-## Parsing in HTML
-
-'''
-    import HTMLParser
-#or
-    from HTMLParser import HTMLParser
-
-    # create a subclass and override the handler methods
-    class MyHTMLParser(HTMLParser):
-        def handle_starttag(self, tag, attrs):
-            print "Encountered a start tag:", tag
-
-        def handle_endtag(self, tag):   
-            print "Encountered an end tag :", tag
-
-        def handle_data(self, data):
-            print "Encountered some data  :", data
-
-    # instantiate the parser and fed it some HTML
-    parser = MyHTMLParser()
-    parser.feed('<html><head><title>Test</title></head>'
-                '<body><h1>Parse me!</h1></body></html>')
-'''
+    with open('strings.json') as json_data: <- An illustration of opening a json file and outputting its contents using .load (leave off the s... .loads() is to be used for strings!)
+        d = json.load(json_data)
+        print(d)
 
 ---
 References
+
+https://www.pythonforbeginners.com
 
 https://www.dataquest.io/blog/python-api-tutorial/
 
