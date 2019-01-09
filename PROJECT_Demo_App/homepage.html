@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Connections</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" />
+      <link rel="stylesheet" href="css/generalstyling.css" />
+      
+ 
+      <script
+        src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script> 
+  </head>
+
+  <!-- Side navigation -->
+  <div class="sidenav">
+    <a href="homepage.html">Home</a>
+    <a href="#">Contact</a>
+    <a href="#">Profile</a>
+    <a href="index.html">Chatrooms</a>
+    <a href="fields.html">Fields</a>
+    <a href="#">Volunteer</a>
+    <a href="#">Internship</a>
+  </div>
+  <center>
+
+<h2> Mission Statement </h2>
+<p> blah blah blah </p>
+
+
+<!--About Us?-->
+
+<div class="w3-row-padding w3-grayscale">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="unnamed-2.png" alt="Brian" style="width:60%">
+      <h3>Brian Newton</h3>
+      <p class="w3-opacity">CMO</p>
+      <p>FILL IN ABOUT YOU</p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="unnamed-2.png" alt="Tina" style="width:60%">
+      <h3>Amantina Sosa</h3>
+      <p class="w3-opacity">CEO & Founder</p>
+      <p>FILL IN ABOUT YOU </p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <img src="unnamed-2.png" alt="Aliyah" style="width:60%">
+      <h3>Aliyah Singleton</h3>
+      <p class="w3-opacity">CTO & </p>
+      <p>FILL IN ABOUT YOU </p>
+      <p><button class="w3-button w3-light-grey w3-block">Contact</button></p>
+    </div>
+  </div>
+
+
+<!--Contact Section-->
+<div class="w3-container w3-padding-32" id="contact">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Contact</h3>
+    <p>Lets get in touch and talk about your comments and suggestions.</p>
+    <form action="/action_page.php" target="_blank">
+      <input class="w3-input w3-border" type="text" placeholder="Name" required="" name="Name">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Email" required="" name="Email">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Subject" required="" name="Subject">
+      <input class="w3-input w3-section w3-border" type="text" placeholder="Comment" required="" name="Comment">
+      <button class="w3-button w3-black w3-section" type="submit">
+        <i class="fa fa-paper-plane"></i> SEND MESSAGE
+      </button>
+    </form>
+  </div>
+
+<!--Sign up form -->
+<form action="action_page.php" style="border:1px solid #ccc">
+  <div class="container">
+    <h1>Sign Up</h1>
+    <p>Please fill in this form to create an account.</p>
+    <hr>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <label for="psw-repeat"><b>Repeat Password</b></label>
+    <input type="password" placeholder="Repeat Password" name="psw-repeat" required>
+
+    <label>
+      <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
+    </label>
+
+    <p>By creating an account you agree to our <a href="#" style="color:dodgerblue">Terms & Privacy</a>.</p>
+
+    <div class="clearfix">
+      <button type="button" class="cancelbtn">Cancel</button>
+      <button type="submit" class="signupbtn">Sign Up</button>
+    </div>
+  </div>
+</form>
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+    <footer>
+      <!--Login-->
+      <form action="action_page.php">
+        <div class="imgcontainer">
+          <img src="img_avatar2.png" alt="Avatar" class="avatar">
+        </div>
+
+        <div class="container">
+          <label for="uname"><b>Username</b></label>
+          <input type="text" placeholder="Enter Username" name="uname" required>
+
+          <label for="psw"><b>Password</b></label>
+          <input type="password" placeholder="Enter Password" name="psw" required>
+
+
+          <center>
+          <input type="checkbox" checked="checked" name="remember"> Remember me
+          </label>
+          </center>
+          <br>
+
+          <label>
+
+        <div class="container" style="background-color:#f1f1f1">
+          <button type="button" class="cancelbtn">Login</button>
+          <button type="button" class="cancelbtn">Cancel</button>
+          <br>
+          <span class="psw">Forgot <a href="#">password?</a></span>
+        </div>
+      </form>  
+
+    <footer>
+      <a href="#home" class="active">Home</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+      <a href="fields.html">Fields Page </a>
+    </footer> 
+  </body>
+</html>
