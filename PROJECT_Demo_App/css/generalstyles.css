@@ -1,0 +1,102 @@
+body {
+  background-color: burlywood;
+  font-family: arial;
+  text-align: center;
+}
+
+div {
+    font-size: 36px;
+    font-family: Tahoma;
+}
+
+header { margin: 5% 0 15%; }
+
+header li { 
+  list-style-type: none; 
+  display: inline; 
+  margin: 2%; 
+}
+
+input {
+    width: 100%;
+}
+
+input[type=text] {
+    border: 2px solid red;
+    border-radius: 4px;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}    
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}  
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}  
+
+input {
+    width: 100%;
+    height: 40px;
+    border-color:red;
+    border-style: double;
+    border-width: 4px;
+    color:#8B0000;
+}
+
+form {
+    font-weight: bold;
+    color: burlywood;
+    text-align: center;
+}
+
+p { font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 15px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; color: #000; }
+
+form { font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 800; line-height: 20px; }
+
+#title { font-family: Papyrus, fantasy;
+   font-size: 48px; 
+   font-style: italic; 
+   font-variant: normal; 
+   font-weight: 850; 
+   line-height: 93px; 
+   text-align: center;
+   text-shadow: 2px 3px 4px #8B0000;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #8B0000;
+  padding: 20px;
+}
+
+.form{
+  color: white;
+}
+
+.body{
+    color:red;
+    font-family: 'Amatic SC', cursive;
+}  

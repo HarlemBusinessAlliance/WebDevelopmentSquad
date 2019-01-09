@@ -1,0 +1,58 @@
+input {
+  border-color:red;
+  border-radius: 4px;
+  border-style: groove;
+}
+
+p {
+  text-align: center;
+  font-size: 24px;
+  font-family: Arial;
+}
+
+#ident {  margin-bottom:15px; }
+
+.cancelbtn {
+    background-color:#8b0000;
+    color: burlywood;
+    padding: 14px 20px;
+    margin: 18px  615px;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+    text-align: center;
+}
+
+.cancelbtn:hover {
+    background-color: #C00000;
+}
+
+.cancelbtn, .loginbtn {
+  font-family: 'Papyrus'; 
+  font-weight:900;
+  font-size:16px;
+}
+
+.container {
+    border-radius: 5px;
+    padding: 20px;
+    font-weight: bold;
+    color: burlywood;
+    text-align: center;
+    background-color: #8b0000;
+}
+
+.loginbtn { 
+  background-color:black;
+  color: burlywood;
+  padding: 14px 20px;
+  margin: 18px  615px;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  text-align: center;
+}
+
+.loginbtn:hover {
+    background-color:#282828;
+}

@@ -1,3 +1,2 @@
-# standoff_demoday
-
-Are you ready to showcase your talent
+# CopIT
+The repo regarding the premier fashion identification app

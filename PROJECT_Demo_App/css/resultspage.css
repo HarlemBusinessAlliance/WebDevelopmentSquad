@@ -1,0 +1,25 @@
+h1 {
+    font-family: Papyrus, fantasy;
+    font-size: 48px;
+    text-align: center;
+    text-shadow: 2px 3px 4px #8b0000;
+    font-style:italic;
+    font-weight: 900;
+}
+
+h2 {
+    font-family: Papyrus,fantasy;
+    font-weight: 900;
+}
+
+h3 {
+    font-family: Papyrus,fantasy;
+}
+
+img {
+    float:center;
+}
+
+li {
+    list-style-type:none;
+}
